@@ -1,4 +1,4 @@
-# Image Caption Generation
+# Image to Caption to Image
 December 2016 - This project and the project materials are built with 3 other excellent teammates; Safa Messaoud, Ankit Rai and Tarek Elgamal.
 
 ### Summary
